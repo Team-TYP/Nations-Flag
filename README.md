@@ -31,3 +31,11 @@
 - To learn more about the flag of India, 
 <a href="https://en.m.wikipedia.org/wiki/Flag_of_India" target="_blank">click here</a>
 
+## The Flag of Canada
+
+![510px-Flag_of_Canada_(Pantone) svg](https://user-images.githubusercontent.com/79866006/149262298-77221061-b909-4224-af15-504b898084ce.png)
+
+
+- To learn more about the flag of Canada, 
+<a href="https://en.m.wikipedia.org/wiki/Flag_of_Canada" target="_blank">click here</a>
+
